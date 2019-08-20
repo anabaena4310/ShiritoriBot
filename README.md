@@ -4,8 +4,7 @@ GASとMessagingAPIを利用したしりとりBot
 LINEでしりとり遊びができるボットです。 GASとMessagingAPIで実装されています
 
 １. 画像のようなしりとり単語表をGoogleスプレッドシートで作成してください。各単語の表情の列などの位置は画像に合わせてください。 
-
-2. スクリプトエディタを開いて「ShiritoriBot.gs」をコピー＆ペーストします。 
+２. スクリプトエディタを開いて「ShiritoriBot.gs」をコピー＆ペーストします。 
 
 ３. LINE DevelopersにログインしてMessagingAPIのクライアントとチャネルを作成し、アクセストークンを取得してShiritoriBot.gsの所定の箇所にコピー＆ペーストします。 
 

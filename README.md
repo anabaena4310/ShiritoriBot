@@ -1,0 +1,2 @@
+# ShiritoriBot
+GASとMessagingAPIを利用したしりとりBot

@@ -15,6 +15,6 @@ LINEでしりとり遊びができるボットです。 GASとMessagingAPIで実
 
 ６. 「チャネル基本設定」ページのQRコードをLINEアプリで読み込んで友達登録し、メッセージを送ってテストする。
 
-不明な点はぜひTwitterでお気軽にお尋ねください！ ＠benao_blog
+不明な点はぜひTwitterでお気軽にお尋ねください。 ＠benao_python
 
 ![Uploading スクリーンショット 2019-08-20 18.33.54.png…](https://user-images.githubusercontent.com/51358770/63336178-aa789880-c379-11e9-8a04-16d69d95b3f3.png)
